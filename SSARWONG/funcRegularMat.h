@@ -1,0 +1,1 @@
+void regularMat(float** oriImg, float** regularImg, myPara imgParameter);

@@ -1,0 +1,1 @@
+void matTranspose(float** preTranspose, float** postTranspose, myPara imgParameter);

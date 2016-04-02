@@ -1,0 +1,1 @@
+void cacuDistance(float** referMat, float** distMat, myPara imgParameter);

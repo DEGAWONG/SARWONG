@@ -1,0 +1,1 @@
+void setMyPara(myPara &imgParameter);

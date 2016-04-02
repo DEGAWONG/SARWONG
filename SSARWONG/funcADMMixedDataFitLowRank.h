@@ -1,0 +1,1 @@
+void ADM_MixedDatafitLowRank(float** SVDMat, float& weightArray, float **L_hat,float **Z_hat,float **Y,float **L_prev,float **SVD_U,float *SVD_UArray,float **SVD_S,float **SVD_SRank,float  *SVD_SArray,float **SVD_V,float *SVD_VArray,float* SVDArray,myPara imgParameter);

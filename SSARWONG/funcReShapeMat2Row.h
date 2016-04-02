@@ -1,0 +1,1 @@
+void reShapeMat2Row(float ** imgMat, float * imgArray, myPara  imgParameter);
